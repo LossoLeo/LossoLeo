@@ -2,7 +2,7 @@
 - Atualmente trabalho como Desenvolvedor Web Full-Stack;
 - Estudando para desenvolvimento mobile;
 - Graduado em Ciência da Computação pela Universidade Estadual do Centro Oeste - UNICENTRO
-- Sinta-se a vontade para circular pelo perfil e entrar em contato.
+- “If you think your users are idiots, only idiots will use it.” - Linus Torvalds
 
 <div align="center">
   <a href="https://github.com/LossoLeo">
