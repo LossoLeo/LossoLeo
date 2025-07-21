@@ -3,12 +3,6 @@
 - Graduado em Ciência da Computação pela Universidade Estadual do Centro Oeste - UNICENTRO
 - “If you think your users are idiots, only idiots will use it.” - Linus Torvalds
 
-<div align="center">
-  <a href="https://github.com/LossoLeo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LossoLeo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LossoLeo&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 <div style="display: inline_block"><br>
 <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Leo-Vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg">
