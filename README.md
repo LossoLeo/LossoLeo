@@ -1,5 +1,5 @@
 ### Olá, me chamo Leonardo Losso 👋
-- Atualmente trabalho como Desenvolvedor Web Full-Stack;
+- Desenvolvedor pleno na empresa Aiqfome;
 - Graduado em Ciência da Computação pela Universidade Estadual do Centro Oeste - UNICENTRO
 - “If you think your users are idiots, only idiots will use it.” - Linus Torvalds
 
